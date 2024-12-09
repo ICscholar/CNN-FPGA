@@ -1,3 +1,24 @@
+<!-- markdownlint-disable first-line-h1 -->
+<!-- markdownlint-disable html -->
+
+<div align="center">
+<h1>
+calflops: a FLOPs and Params calculate tool for neural networks
+</h1>
+</div>
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/calflops)
+[![Pypi version](https://img.shields.io/pypi/v/calflops.svg)](https://pypi.org/project/calflops/)
+[![PyPI - License](https://img.shields.io/pypi/l/calflops)](https://github.com/MrYxJ/calculate-flops.pytorch/blob/main/LICENSE)
+
+<h4 align="center">
+    <p>
+        <b>English</b> |
+        <a href="https://github.com/MrYxJ/calculate-flops.pytorch/blob/main/README_CN.md">中文</a>
+    <p>
+</h4>
+
+
 ## Statement:
 ### Most of the code and associated materials are referenced from https://github.com/JiachengCao/cnn_accelerator. This project is a detailed annotated version of the code.The annotations were independently added by me to enhance clarity based on my understanding of the code and algorithms.
 #### 本代码及其配套内容大部分参考了 https://github.com/JiachengCao/cnn_accelerator，本工程为代码详细注释版本。注释部分由我根据对代码和算法的理解自行添加，以提高其清晰度。
